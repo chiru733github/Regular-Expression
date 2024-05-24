@@ -1,0 +1,14 @@
+C:\Users\pagad\source\repos\Problems\Regex_Practice\bin\Debug\net8.0\Regex_Practice.exe
+C:\Users\pagad\source\repos\Problems\Regex_Practice\bin\Debug\net8.0\Regex_Practice.deps.json
+C:\Users\pagad\source\repos\Problems\Regex_Practice\bin\Debug\net8.0\Regex_Practice.runtimeconfig.json
+C:\Users\pagad\source\repos\Problems\Regex_Practice\bin\Debug\net8.0\Regex_Practice.dll
+C:\Users\pagad\source\repos\Problems\Regex_Practice\bin\Debug\net8.0\Regex_Practice.pdb
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.AssemblyInfoInputs.cache
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.AssemblyInfo.cs
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.csproj.CoreCompileInputs.cache
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.dll
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\refint\Regex_Practice.dll
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.pdb
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\Regex_Practice.genruntimeconfig.cache
+C:\Users\pagad\source\repos\Problems\Regex_Practice\obj\Debug\net8.0\ref\Regex_Practice.dll
